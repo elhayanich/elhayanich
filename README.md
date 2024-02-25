@@ -1,5 +1,5 @@
 <h1><img src="https://slackmojis.com/emojis/8809-wave_hello/download" width="30"/> Hey there !</h1>
-<p>Welcome to my page! </br> I'm chaymae ( You can call me chay), Fullstack development student from <img src="https://cdn-icons-png.flaticon.com/512/197/197551.png" width="15"/> <b>Rabat </b>, currently living in <img src="https://cdn-icons-png.flaticon.com/512/197/197560.png" width="15"/> <b>Toulouse</b>. </p>
+<p>Welcome to my page! </br> I'm chaymae ( You can call me chay), Fullstack development student from <img src="https://cdn-icons-png.flaticon.com/512/197/197551.png" width="15"/> <b>Rabat </b>, currently living in <img src="https://cdn-icons-png.flaticon.com/512/197/197560.png" width="15"/> <b>Toulouse</b>.  I am a tech enthusiast & an open-source advocate. Will soon be open to collaborating on projects and innovative/disruptive ideas.  </p>
 <p align="center">
   <img width="250" src="https://media0.giphy.com/media/v1.Y2lkPTc5MGI3NjExc3J3Mzg0dmhmNmF0bGptaWk0MWFvaWg1M2Y2MTlkczkybTJmZndmdCZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/DtBvQ3sv2Zunwi5Ree/giphy.gif">
 </p>
