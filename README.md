@@ -22,3 +22,6 @@
 <p></a> <a href="https://twitter.com/callmeechay" target="_blank">   <img alt="twitter" src="https://img.shields.io/badge/twitter-black?logo=x" /></a> <a href="https://www.linkedin.com/in/elhayanich/" target="_blank"><img alt="LinkedIn" src="https://img.shields.io/badge/LinkedIn-blue?logo=Linkedin" /></a>
 <p><img src="https://media.giphy.com/media/LnQjpWaON8nhr21vNW/giphy.gif" width="60"> <em><b>I love connecting with different people</b> so if you want to say <b>hi, I'll be happy to meet you more!</b> :)</em></p>
 <p align="center">This <i>README</i> file is generated <b>every month </b>!</br>Last refresh: Monday, 9 April, 08:08 CET<br />
+
+![snake gif](https://github.com/elhayanich/elhayanich/blob/output/github-contribution-grid-snake.gif)
+
