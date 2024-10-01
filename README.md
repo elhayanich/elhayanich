@@ -1,7 +1,7 @@
 <h1><img src="https://slackmojis.com/emojis/8809-wave_hello/download" width="30"/> Hey there !</h1>
 <p align="center"><i>“Be curious. Read widely. Try new things. What people call intelligence just boils down to curiosity.”</i></p>
 <p align="center"><i>- Aaron Swartz (2013 ~ 1986) -</i></p>
-<p>Welcome to my Github page! </br> I'm chaymae ( You can call me chay), Fullstack development student from <img src="https://cdn-icons-png.flaticon.com/512/197/197551.png" width="15"/> <b>Rabat </b>, currently living in <img src="https://cdn-icons-png.flaticon.com/512/197/197560.png" width="15"/> <b>Toulouse</b>.  I am a tech and cybersecurity enthusiast, a piano player and fashion victim 😂. Will soon be open to collaborating on projects and innovative/disruptive ideas.  </p>
+<p>Welcome to my Github page! </br> I'm chaymae ( You can call me chay), Fullstack and AI programming student from <img src="https://cdn-icons-png.flaticon.com/512/197/197551.png" width="15"/> <b>Rabat </b>, currently living in <img src="https://cdn-icons-png.flaticon.com/512/197/197560.png" width="15"/> <b>Toulouse</b>.  I am a tech and AI enthusiast, a piano player and fashion victim 😂. Will soon be open to collaborating on projects and innovative/disruptive ideas.  </p>
 <p align="center">
   <img width="250" src="https://media3.giphy.com/media/v1.Y2lkPTc5MGI3NjExNnhqOGxxcDhkZWcyYXB5OXhzOXNwcWhqbXE1NW82eGF0aGQ0ZHF1aSZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/qYGHy6W4MZoZeUmkLG/giphy.gif">
 </p>
